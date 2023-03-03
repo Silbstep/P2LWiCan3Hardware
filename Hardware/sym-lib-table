@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name GrafixScale-rescue)(type Legacy)(uri D:/Users/Designs/Grafix/Hardware/GrafixScale-rescue.lib)(options "")(descr ""))
+  (lib (name Hardware-rescue)(type Legacy)(uri D:/Users/Designs/Grafix/Hardware/Hardware-rescue.lib)(options "")(descr ""))
+)

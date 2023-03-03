@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "d:/Users/Designs/.espressif/esp-mdf/components/**",
+                "d:/Users/Designs/esp-idf/components/**",
+                "D:/Users/Designs/esp-idf/components/esp_wifi/include",
+                "${workspaceFolder}/build/config"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "D:\\Users\\Designs\\.espressif\\tools\\riscv32-esp-elf\\esp-2021r1-8.4.0\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "D:\\Users\\Designs\\.espressif\\tools\\riscv32-esp-elf\\esp-2021r1-8.4.0\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe",
+        }
+    ],
+    "version": 4
+}

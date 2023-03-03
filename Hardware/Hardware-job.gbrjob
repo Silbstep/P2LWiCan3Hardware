@@ -1,0 +1,60 @@
+{
+  "Header":
+  {
+    "GenerationSoftware":
+    {
+      "Vendor":      "KiCad",
+      "Application": "Pcbnew",
+      "Version":     "(5.1.8)-1"
+    },
+    "CreationDate":  "2022-08-16T10:20:34+02:00"
+  },
+  "GeneralSpecs":
+  {
+    "ProjectId":
+    {
+      "Name": "Hardware",
+      "GUID": "48617264-7761-4726-952e-6b696361645f",
+      "Revision": "rev?"
+    },
+    "Size":
+    {
+      "X": 204.520,
+      "Y": 29.260
+    },
+    "LayerNumber": 4,
+    "BoardThickness":  1.600
+  },
+  "DesignRules":
+  [
+    {
+      "Layers": "Outer",
+      "PadToPad":  0.170,
+      "PadToTrack":  0.170,
+      "TrackToTrack":  0.170,
+      "MinLineWidth":  0.152,
+      "TrackToRegion":  0.254,
+      "RegionToRegion":  0.254
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad":  0.170,
+      "PadToTrack":  0.170,
+      "TrackToTrack":  0.170,
+      "MinLineWidth":  0.152,
+      "TrackToRegion":  0.254,
+      "RegionToRegion":  0.254
+    }
+  ],
+  "FilesAttributes":
+  [
+    {
+      "Path":  "Hardware-F_Fab.gbr",
+      "FileFunction":  "AssemblyDrawing,Top",
+      "FilePolarity":  "Positive"
+    }
+  ],
+  "MaterialStackup":
+  [
+  ]
+}
